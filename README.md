@@ -9,5 +9,5 @@
 - Pull the most recent versions of the target rebase branch.
 - Perform the following command: 
 ```
-git revbase -i <target branch>
+git rebase -i <target branch>
 ```
